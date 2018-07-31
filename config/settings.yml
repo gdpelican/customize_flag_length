@@ -1,0 +1,4 @@
+plugins:
+  customize_flag_length_max:
+    default: 500
+    client: true
